@@ -1,5 +1,6 @@
 # FaceDetection
 Face Detection in python using OpenCV
+
 Steps:
 1. First make 2 folders TrainerXML and USERINFO
 2. Then run the Face_Dect.py, it will create the training data
@@ -15,3 +16,6 @@ if (id == 1):
             id = "Vinayak"
         elif(id != 1):
             id = "UKWN"
+            
+DONATE HERE: PAYPAL: https://www.paypal.me/PREETIG
+PAYTM: 9599540479
