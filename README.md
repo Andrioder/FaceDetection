@@ -18,4 +18,3 @@ if (id == 1):
             id = "UKWN"
             
 DONATE HERE: PAYPAL: https://www.paypal.me/PREETIG
-PAYTM: 9599540479
